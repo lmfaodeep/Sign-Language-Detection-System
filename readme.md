@@ -1,7 +1,14 @@
 #hello this is deep
 this is an upgrade from the previous project i worked on
 -uses mediapipe and cnn 
-## AS I AM NOT IMPORTING THE DATASET INTO GIT, HERE IS THE LINK FOR IT: https://www.kaggle.com/datasets/grassknoted/asl-alphabet
+## HERE IS THE LINK FOR THE DATASET I USED: https://www.kaggle.com/datasets/grassknoted/asl-alphabet
+(paste into a folder named dataset. Copy the contents of extracted files into the main project folder.
+directory goes like
+-dataset
+  -a
+  -b
+  -c
+  -etc...
 
 
 # Real-Time Sign Language Recognition
