@@ -4,11 +4,12 @@ this is an upgrade from the previous project i worked on
 ## HERE IS THE LINK FOR THE DATASET I USED: https://www.kaggle.com/datasets/grassknoted/asl-alphabet
 (paste into a folder named dataset. Copy the contents of extracted files into the main project folder.
 directory goes like
--dataset
-  -a
-  -b
-  -c
-  -etc...
+
+- -dataset
+  - -a
+  - -b
+  - -c
+  - -etc...
 
 
 # Real-Time Sign Language Recognition
